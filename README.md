@@ -1,2 +1,2 @@
-# Programa-o-Declarativa-UESB-
+# Programacao-Declarativa-UESB-
 Atividades e Trabalhos produzidos no curso de Programação Declarativa.
